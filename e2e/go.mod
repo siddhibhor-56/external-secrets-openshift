@@ -1,6 +1,6 @@
 module github.com/external-secrets/external-secrets-e2e
 
-go 1.26.3
+go 1.26.6
 
 replace github.com/external-secrets/external-secrets => ../
 
@@ -238,7 +238,7 @@ require (
 	golang.org/x/sync v0.20.0 // indirect
 	golang.org/x/sys v0.42.0 // indirect
 	golang.org/x/term v0.41.0 // indirect
-	golang.org/x/text v0.35.0 // indirect
+	golang.org/x/text v0.39.0 // indirect
 	golang.org/x/time v0.14.0 // indirect
 	golang.org/x/tools v0.42.0 // indirect
 	gomodules.xyz/jsonpatch/v2 v2.5.0 // indirect
